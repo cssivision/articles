@@ -15,4 +15,3 @@ articles deserve reading.
 
 ## other 
 - oauth-2 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
-- ststemd 
