@@ -1,5 +1,5 @@
-# articles
-articles deserve reading.
+# Articles deserve reading
+
 ## golang
 - go-scheduler https://morsmachine.dk/go-scheduler
 - The Go netpoller https://morsmachine.dk/netpoller
