@@ -12,6 +12,7 @@ articles deserve reading.
 
 ## network 
 - deep-dive-into-iptables https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-netfilter-architecture
+- ip route fundamental https://www.thegeekstuff.com/2012/04/ip-routing-intro/
 
 ## other 
 - oauth-2 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
