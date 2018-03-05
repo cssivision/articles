@@ -3,6 +3,7 @@
 ## golang
 - go-scheduler https://morsmachine.dk/go-scheduler
 - The Go netpoller https://morsmachine.dk/netpoller
+- gotchas-and-common-mistakes-in-go-golang http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
 
 ## rust
 - non-lexical-lifetimes http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/
