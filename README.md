@@ -19,6 +19,7 @@
   - https://www.thegeekstuff.com/2012/05/route-flags/
 - how-vxlan-works-on-linux https://www.slideshare.net/enakai/how-vxlan-works-on-linux
 - how-vxlan-works-on-l2-and-across-l3-networks https://www.slideshare.net/anandnande/how-vxlan-works-on-l2-and-across-l3-networks
+- build dns guide https://github.com/EmilHernvall/dnsguide
 
 ## raft
 raft dissertation https://github.com/ongardie/dissertation
