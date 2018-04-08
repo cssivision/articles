@@ -5,6 +5,7 @@
 - The Go netpoller https://morsmachine.dk/netpoller
 - gotchas-and-common-mistakes-in-go-golang http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
 - garbage collector https://blog.cloudflare.com/recycling-memory-buffers-in-go/
+- golangs-real-time-gc-in-theory-and-practice https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/
 
 ## rust
 - non-lexical-lifetimes http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/
