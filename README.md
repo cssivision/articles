@@ -6,6 +6,7 @@
 - gotchas-and-common-mistakes-in-go-golang http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
 - garbage collector https://blog.cloudflare.com/recycling-memory-buffers-in-go/
 - golangs-real-time-gc-in-theory-and-practice https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/
+- low-latency-gc https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7
 
 ## rust
 - non-lexical-lifetimes http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/
