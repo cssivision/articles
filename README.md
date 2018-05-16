@@ -30,3 +30,4 @@ raft dissertation https://github.com/ongardie/dissertation
 - oauth-2 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
 - Interview-Notebook https://github.com/CyC2018/Interview-Notebook
 - Linux IO模式及 select、poll、epoll详解 https://segmentfault.com/a/1190000003063859#articleHeader13
+- build-your-own-x https://github.com/danistefanovic/build-your-own-x
