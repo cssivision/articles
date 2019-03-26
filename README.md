@@ -15,6 +15,7 @@
 ## container
 - docker network http://blog.oddbit.com/2014/08/11/four-ways-to-connect-a-docker/
 - namespaces https://lwn.net/Articles/531114/#series_index
+- microcontainer https://blogs.oracle.com/developers/the-microcontainer-manifesto
 
 ## network 
 - deep-dive-into-iptables https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-netfilter-architecture
