@@ -27,6 +27,9 @@
 - how-vxlan-works-on-l2-and-across-l3-networks https://www.slideshare.net/anandnande/how-vxlan-works-on-l2-and-across-l3-networks
 - build dns guide https://github.com/EmilHernvall/dnsguide
 
+## service discovery
+- shouldnt-use-zookeeper-for-service-discovery https://medium.com/knerd/eureka-why-you-shouldnt-use-zookeeper-for-service-discovery-4932c5c7e764
+
 ## raft
 raft dissertation https://github.com/ongardie/dissertation
 
