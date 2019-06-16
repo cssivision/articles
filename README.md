@@ -42,3 +42,4 @@ https://github.com/trimstray/test-your-sysadmin-skills
 - Linux IO模式及 select、poll、epoll详解 https://segmentfault.com/a/1190000003063859#articleHeader13
 - build-your-own-x https://github.com/danistefanovic/build-your-own-x
 - linux-network-performance-parameters https://github.com/leandromoreira/linux-network-performance-parameters
+- https://www.slideshare.net/brendangregg/how-netflix-tunes-ec2-instances-for-performance
