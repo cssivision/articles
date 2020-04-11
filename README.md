@@ -37,6 +37,7 @@ raft dissertation https://github.com/ongardie/dissertation
 https://github.com/trimstray/test-your-sysadmin-skills
 
 ## Concurrency is not parallelism
+async basic https://cfsamson.github.io/book-exploring-async-basics/
 green thread https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/
 
 ## other 
