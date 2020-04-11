@@ -36,6 +36,9 @@ raft dissertation https://github.com/ongardie/dissertation
 ## system admin
 https://github.com/trimstray/test-your-sysadmin-skills
 
+## Concurrency is not parallelism
+https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/
+
 ## other 
 - oauth-2 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
 - Interview-Notebook https://github.com/CyC2018/Interview-Notebook
