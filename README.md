@@ -44,6 +44,7 @@ https://github.com/trimstray/test-your-sysadmin-skills
 - reactor-pattern https://tianpan.co/blog/2015-01-13-understanding-reactor-pattern-for-highly-scalable-i-o-bound-web-server
 - Futures Explained in 200 Lines of Rust https://cfsamson.github.io/books-futures-explained/introduction.html
 - The Waker API I: what does a waker do? https://boats.gitlab.io/blog/post/wakers-i/
+- How Rust optimizes async/await https://tmandry.gitlab.io/blog/posts/optimizing-await-1/
 
 ## other 
 - oauth-2 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
