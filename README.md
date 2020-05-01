@@ -41,6 +41,7 @@ https://github.com/trimstray/test-your-sysadmin-skills
 - async basic https://cfsamson.github.io/book-exploring-async-basics/
 - epoll-vs-kqueue http://web.archive.org/web/20190112082733/https://people.eecs.berkeley.edu/~sangjin/2012/12/21/epoll-vs-kqueue.html
 - green thread https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/
+- reactor-pattern https://tianpan.co/blog/2015-01-13-understanding-reactor-pattern-for-highly-scalable-i-o-bound-web-server
 
 ## other 
 - oauth-2 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
