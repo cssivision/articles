@@ -13,6 +13,7 @@
 - non-lexical-lifetimes http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/
 - Futures Explained in 200 Lines of Rust https://cfsamson.github.io/books-futures-explained/
 - http://smallcultfollowing.com/babysteps/
+- https://boats.gitlab.io/blog/ 
 
 ## container
 - docker network http://blog.oddbit.com/2014/08/11/four-ways-to-connect-a-docker/
