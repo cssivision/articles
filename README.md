@@ -15,6 +15,7 @@
 - http://smallcultfollowing.com/babysteps/
 - https://boats.gitlab.io/blog/ 
 - io-uring https://boats.gitlab.io/blog/post/io-uring/
+- https://seanmonstar.com/
 
 ## container
 - docker network http://blog.oddbit.com/2014/08/11/four-ways-to-connect-a-docker/
