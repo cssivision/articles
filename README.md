@@ -1,4 +1,4 @@
-# Articles deserve reading
+# Articles
 
 ## golang
 - go-scheduler https://morsmachine.dk/go-scheduler
