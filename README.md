@@ -20,6 +20,7 @@
 - How Rust optimizes async/await https://tmandry.gitlab.io/blog/posts/optimizing-await-1/
 - Async interviews https://smallcultfollowing.com/babysteps/blog/2019/11/22/announcing-the-async-interviews/
 - https://this-week-in-rust.org/
+- rust-error-handling https://nick.groenen.me/posts/rust-error-handling/
 
 ## container
 - docker network http://blog.oddbit.com/2014/08/11/four-ways-to-connect-a-docker/
