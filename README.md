@@ -57,6 +57,7 @@ https://github.com/trimstray/test-your-sysadmin-skills
 - The Waker API I: what does a waker do? https://boats.gitlab.io/blog/post/wakers-i/
 - How Rust optimizes async/await https://tmandry.gitlab.io/blog/posts/optimizing-await-1/
 - Epoll, Kqueue and IOCP Explained with Rust https://cfsamsonbooks.gitbook.io/epoll-kqueue-iocp-explained/
+- tokio scheduler https://tokio.rs/blog/2019-10-scheduler
 
 ## other 
 - oauth-2 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
