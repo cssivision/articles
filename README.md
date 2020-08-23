@@ -8,6 +8,7 @@
 - golang http timeout https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/
 - golangs-real-time-gc-in-theory-and-practice https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/
 - low-latency-gc https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7
+- The Journey of Go's Garbage Collector https://blog.golang.org/ismmkeynote
 
 ## rust
 - non-lexical-lifetimes http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/
