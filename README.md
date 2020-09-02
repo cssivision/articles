@@ -59,6 +59,8 @@ https://github.com/trimstray/test-your-sysadmin-skills
 - How Rust optimizes async/await https://tmandry.gitlab.io/blog/posts/optimizing-await-1/
 - Epoll, Kqueue and IOCP Explained with Rust https://cfsamsonbooks.gitbook.io/epoll-kqueue-iocp-explained/
 - tokio scheduler https://tokio.rs/blog/2019-10-scheduler
+- https://stjepang.github.io/2020/01/31/build-your-own-executor.html
+- https://stjepang.github.io/2020/01/31/build-your-own-executor.html
 
 ## other 
 - oauth-2 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
