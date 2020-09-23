@@ -8,7 +8,6 @@
 - go-scheduler https://morsmachine.dk/go-scheduler
 - The Go netpoller https://morsmachine.dk/netpoller
 - gotchas-and-common-mistakes-in-go-golang http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
-- garbage collector https://blog.cloudflare.com/recycling-memory-buffers-in-go/
 - golang http timeout https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/
 - golangs-real-time-gc-in-theory-and-practice https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/
 - low-latency-gc https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7
