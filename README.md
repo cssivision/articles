@@ -63,7 +63,7 @@ https://github.com/trimstray/test-your-sysadmin-skills
 - Epoll, Kqueue and IOCP Explained with Rust https://cfsamsonbooks.gitbook.io/epoll-kqueue-iocp-explained/
 - tokio scheduler https://tokio.rs/blog/2019-10-scheduler
 - https://stjepang.github.io/2020/01/31/build-your-own-executor.html
-- https://stjepang.github.io/2020/01/31/build-your-own-executor.html
+- https://stjepang.github.io/2020/01/25/build-your-own-block-on.html
 
 ## io-uring
 - lwn io-uring articles https://lwn.net/Kernel/Index/#io_uring
