@@ -65,6 +65,9 @@ https://github.com/trimstray/test-your-sysadmin-skills
 - https://stjepang.github.io/2020/01/31/build-your-own-executor.html
 - https://stjepang.github.io/2020/01/31/build-your-own-executor.html
 
+## io-uring
+- lwn io-uring articles https://lwn.net/Kernel/Index/#io_uring
+
 ## other 
 - oauth-2 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
 - Interview-Notebook https://github.com/CyC2018/Interview-Notebook
