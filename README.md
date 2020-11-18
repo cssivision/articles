@@ -27,6 +27,7 @@
 - rust-error-handling https://nick.groenen.me/posts/rust-error-handling/
 - rust-compilation https://pingcap.com/blog/rust-compilation-model-calamity/
 - generics-and-compile-time https://pingcap.com/blog/generics-and-compile-time-in-rust/
+- https://nnethercote.github.io/perf-book/
 
 ## container
 - docker network http://blog.oddbit.com/2014/08/11/four-ways-to-connect-a-docker/
