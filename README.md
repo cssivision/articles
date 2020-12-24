@@ -29,6 +29,7 @@
 - generics-and-compile-time https://pingcap.com/blog/generics-and-compile-time-in-rust/
 - https://nnethercote.github.io/perf-book/
 - 40-ms-bug https://vorner.github.io/2020/11/06/40-ms-bug.html
+- rust-pin-unpin https://folyd.com/blog/rust-pin-unpin/
 
 ## container
 - docker network http://blog.oddbit.com/2014/08/11/four-ways-to-connect-a-docker/
