@@ -12,6 +12,7 @@
 - golangs-real-time-gc-in-theory-and-practice https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/
 - low-latency-gc https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7
 - The Journey of Go's Garbage Collector https://blog.golang.org/ismmkeynote
+- 字节跳动在 Go 网络库上的实践 https://www.infoq.cn/article/fea7chf9moohbxbtyres
 
 ## rust
 - non-lexical-lifetimes http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/
