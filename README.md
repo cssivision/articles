@@ -72,6 +72,9 @@ https://github.com/trimstray/test-your-sysadmin-skills
 ## io-uring
 - lwn io-uring articles https://lwn.net/Kernel/Index/#io_uring
 
+## quic 
+- http3-and-quic https://www.fastly.com/blog/modernizing-the-internet-with-http3-and-quic
+
 ## other 
 - oauth-2 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
 - Interview-Notebook https://github.com/CyC2018/Interview-Notebook
