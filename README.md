@@ -32,6 +32,7 @@
 - 40-ms-bug https://vorner.github.io/2020/11/06/40-ms-bug.html
 - rust-pin-unpin https://folyd.com/blog/rust-pin-unpin/
 - delete-cargo-integration-tests https://matklad.github.io/2021/02/27/delete-cargo-integration-tests.html
+- zero abstraction https://blog.rust-lang.org/2015/05/11/traits.html
 
 ## container
 - docker network http://blog.oddbit.com/2014/08/11/four-ways-to-connect-a-docker/
