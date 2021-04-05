@@ -1,5 +1,10 @@
 # Articles
 
+## WebAssembly
+- wasi https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/
+- cloud-computing-without-containers https://blog.cloudflare.com/cloud-computing-without-containers/
+- running-nginx-with-webassembly https://syrusakbary.medium.com/running-nginx-with-webassembly-6353c02c08ac
+
 ## golang
 - Scalable Go Scheduler Design Doc https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw
 - Goroutine and Preemption https://medium.com/a-journey-with-go/go-goroutine-and-preemption-d6bc2aa2f4b7
