@@ -39,6 +39,7 @@
 - delete-cargo-integration-tests https://matklad.github.io/2021/02/27/delete-cargo-integration-tests.html
 - zero abstraction https://blog.rust-lang.org/2015/05/11/traits.html
 - rust-blog https://github.com/pretzelhammer/rust-blog
+- why async fn in traits are hard http://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/
 
 ## container
 - docker network http://blog.oddbit.com/2014/08/11/four-ways-to-connect-a-docker/
