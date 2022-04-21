@@ -41,6 +41,7 @@
 - zero abstraction https://blog.rust-lang.org/2015/05/11/traits.html
 - rust-blog https://github.com/pretzelhammer/rust-blog
 - why async fn in traits are hard http://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/
+- how-async-functions-in-traits-could-work-in-rustc https://blog.theincredibleholk.org/blog/2022/04/18/how-async-functions-in-traits-could-work-in-rustc/
 
 ## container
 - docker network http://blog.oddbit.com/2014/08/11/four-ways-to-connect-a-docker/
