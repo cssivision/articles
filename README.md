@@ -96,3 +96,4 @@ https://github.com/trimstray/test-your-sysadmin-skills
 - https://www.thesslstore.com/blog/explaining-ssl-handshake/
 - https://cvvz.github.io/post/k8s-3-deletion-webhook/ 
 - practical dod https://vimeo.com/649009599
+- https://arthurchiao.art/blog/cracking-k8s-node-proxy/
