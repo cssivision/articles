@@ -98,3 +98,4 @@ https://github.com/trimstray/test-your-sysadmin-skills
 - practical dod https://vimeo.com/649009599
 - https://arthurchiao.art/blog/cracking-k8s-node-proxy/
 - https://arthurchiao.art/blog/socket-acceleration-with-ebpf-zh/
+- https://arthurchiao.art/blog/understanding-ebpf-datapath-in-cilium-zh/
